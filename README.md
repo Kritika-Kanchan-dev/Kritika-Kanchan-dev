@@ -57,9 +57,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kritika-Kanchan-dev&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=8A2BE2" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kritika-Kanchan-dev&show_icons=true&theme=tokyonight" height="170"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kritika-Kanchan-dev&layout=compact&theme=tokyonight&title_color=8A2BE2" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kritika-Kanchan-dev&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
